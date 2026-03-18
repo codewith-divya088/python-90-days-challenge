@@ -14,3 +14,9 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 To build strong programming fundamentals and become job-ready.
 
 More updates coming daily!
+
+## 💻 Skills I'm Learning
+- Python 🐍
+- Problem Solving
+- Logic Building
+- Consistency & Discipline
