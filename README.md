@@ -23,5 +23,6 @@ More updates coming daily!
   
 - ## 📂 Projects
 - 🎓 Student Grade Calculator (Python)
-- - 📊 Student Record Manager (Python)
+- 📊 Student Record Manager (Python)
+  - Menu-driven program to manage student data and results
 
