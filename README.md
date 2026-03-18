@@ -23,4 +23,5 @@ More updates coming daily!
   
 - ## 📂 Projects
 - 🎓 Student Grade Calculator (Python)
+- - 📊 Student Record Manager (Python)
 
