@@ -20,3 +20,7 @@ More updates coming daily!
 - Problem Solving
 - Logic Building
 - Consistency & Discipline
+  
+- ## 📂 Projects
+- 🎓 Student Grade Calculator (Python)
+
