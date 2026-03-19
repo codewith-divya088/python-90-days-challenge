@@ -26,4 +26,4 @@ More updates coming daily!
 - 🎓 Student Grade Calculator (Python)
 - 📊 Student Record Manager (Python)
   - Menu-driven program to manage student data and results
-
+- Input Validator (Python)
