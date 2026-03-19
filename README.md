@@ -9,7 +9,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 15: String Indexing & Slicing
 - Day 16: String Iteration
 - Day 17: String Functions (lower, upper, title, capitalize)
-
+- Day 18: String Functions (find, index, isalpha, isdigit, isalnum)
+  
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
