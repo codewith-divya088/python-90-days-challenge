@@ -12,6 +12,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 18: String Functions (find, index, isalpha, isdigit, isalnum)
 - Day 19: chr() and ord()
 - Day 20: Learned Python lists
+- Day 21: String Formatting (f-strings, format())
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
