@@ -13,6 +13,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 19: chr() and ord()
 - Day 20: Learned Python lists
 - Day 21: String Formatting (f-strings, format())
+ - Day 22: List Iteration
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
