@@ -1,4 +1,4 @@
-# 🚀 90 Days Python Challenge
+8# 🚀 90 Days Python Challenge
 
 Hi, I'm Divya 👋  
 I'm a B.Tech CSE student currently learning Python and building consistency through a 90-day challenge.
@@ -15,7 +15,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 21: String Formatting (f-strings, format())
  - Day 22: List Iteration
 - Day 23: List Comprehension
-  
+  - Day 24: List Functions (append, insert, extend, pop, remove, del, clear)
+
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
