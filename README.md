@@ -18,6 +18,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
   - Day 24: List Functions (append, insert, extend, pop, remove, del, clear)
 - Day 25: List Functions (count, max, min, sort, reverse, index)
 - Day 26: zip() function (combining lists)
+- Day 27: String to List (using split())
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
