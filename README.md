@@ -21,7 +21,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 27: String to List (using split())
  - Day 28: Stack and Queue using list
  - Day 29: Dictionary in Python
-   
+  - Day 30: Dictionary functions in Python
+     
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
