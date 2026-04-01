@@ -13,15 +13,16 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 19: chr() and ord()
 - Day 20: Learned Python lists
 - Day 21: String Formatting (f-strings, format())
- - Day 22: List Iteration
+- Day 22: List Iteration
 - Day 23: List Comprehension
-  - Day 24: List Functions (append, insert, extend, pop, remove, del, clear)
+- Day 24: List Functions (append, insert, extend, pop, remove, del, clear)
 - Day 25: List Functions (count, max, min, sort, reverse, index)
 - Day 26: zip() function (combining lists)
 - Day 27: String to List (using split())
- - Day 28: Stack and Queue using list
- - Day 29: Dictionary in Python
-  - Day 30: Dictionary functions in Python
+- Day 28: Stack and Queue using list
+- Day 29: Dictionary in Python
+- Day 30: Dictionary functions in Python
+- Day 31: Nested dictionary in Python
      
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
