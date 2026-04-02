@@ -23,7 +23,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 29: Dictionary in Python
 - Day 30: Dictionary functions in Python
 - Day 31: Nested dictionary in Python
-     
+- Day 32: Tuple in Python
+  
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
