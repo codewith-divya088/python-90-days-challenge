@@ -42,3 +42,6 @@ More updates coming daily!
 - 📊 Student Record Manager (Python)
   - Menu-driven program to manage student data and results
 - Input Validator (Python)
+- - Day 33: Sets in Python  
+- Mini Project: Remove duplicates  
+- Mini Project: Common elements finder
