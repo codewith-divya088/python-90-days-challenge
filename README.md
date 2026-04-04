@@ -25,6 +25,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 31: Nested dictionary in Python
 - Day 32: Tuple in Python
 - Day 33: sets in python
+- Day 34: Functions in Python 
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
@@ -45,3 +46,5 @@ More updates coming daily!
 - - Day 33: Sets in Python  
 - Mini Project: Remove duplicates  
 - Mini Project: Common elements finder
+- Day 34:Functions in Python 
+- Mini Project: Simple Calculator using functions
