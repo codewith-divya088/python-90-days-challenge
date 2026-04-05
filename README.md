@@ -1,4 +1,4 @@
- 🚀 90 Days Python Challenge
+98179 2941 🚀 90 Days Python Challenge
 
 Hi, I'm Divya 👋  
 I'm a B.Tech CSE student currently learning Python and building consistency through a 90-day challenge.
@@ -25,7 +25,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 31: Nested dictionary in Python
 - Day 32: Tuple in Python
 - Day 33: sets in python
-- Day 34: Functions in Python 
+- Day 34: Functions in Python
+- Day 35: Module in python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
