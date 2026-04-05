@@ -49,3 +49,5 @@ More updates coming daily!
 - Mini Project: Common elements finder
 - Day 34:Functions in Python 
 - Mini Project: Simple Calculator using functions
+ - Day 35: Modules in Python  
+- Mini Project: Calculator using module
