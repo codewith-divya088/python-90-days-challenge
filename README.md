@@ -27,6 +27,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 33: sets in python
 - Day 34: Functions in Python
 - Day 35: Module in python
+- Day 36: Math,Random,date and time Module in python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
@@ -49,5 +50,7 @@ More updates coming daily!
 - Mini Project: Common elements finder
 - Day 34:Functions in Python 
 - Mini Project: Simple Calculator using functions
- - Day 35: Modules in Python  
+- Day 35: Modules in Python  
 - Mini Project: Calculator using module
+ -Day 36: Math, Random, Datetime modules
+  - Mini Project: Random Password Generator
