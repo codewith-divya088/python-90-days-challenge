@@ -52,5 +52,5 @@ More updates coming daily!
 - Mini Project: Simple Calculator using functions
 - Day 35: Modules in Python  
 - Mini Project: Calculator using module
- -Day 36: Math, Random, Datetime modules
+- Day 36: Math, Random, Datetime modules
   - Mini Project: Random Password Generator
