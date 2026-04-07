@@ -28,6 +28,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 34: Functions in Python
 - Day 35: Module in python
 - Day 36: Math,Random,date and time Module in python
+- Day 37: Number Guessing Game (using random module)
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
