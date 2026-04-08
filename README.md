@@ -29,6 +29,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 35: Module in python
 - Day 36: Math,Random,date and time Module in python
 - Day 37: Number Guessing Game (using random module)
+- Day 38 : rock paper scissors game using random module
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
@@ -55,3 +56,4 @@ More updates coming daily!
 - Mini Project: Calculator using module
 - Day 36: Math, Random, Datetime modules
   - Mini Project: Random Password Generator
+- Day 38:Rock Paper Scissor game
