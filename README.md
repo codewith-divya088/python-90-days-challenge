@@ -30,6 +30,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 36: Math,Random,date and time Module in python
 - Day 37: Number Guessing Game (using random module)
 - Day 38 : rock paper scissors game using random module
+- Day 39: Pickle module (data storage using serialization)
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
