@@ -33,6 +33,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 39: Pickle module (data storage using serialization)
 - Day 40: Introduction to JSON and Python object conversion
 - Day 41: Introduction to OOP (class, object, methods)
+- Day 42: Inheritance in Python (OOP concept)
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
