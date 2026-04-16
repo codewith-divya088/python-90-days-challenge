@@ -36,7 +36,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 42: Inheritance in Python (OOP concept)
 - Day 43 - Encapsulation with Getter and Setter in Python
 - Day 44: Polymorphism (method overloading & overriding)
-- Day 45:bike rental system
+- Day 45: Bike rental system
+- Day 46: Errors and Exception Handling (try, except, else, finally)
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
