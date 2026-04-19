@@ -38,7 +38,8 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 44: Polymorphism (method overloading & overriding)
 - Day 45: Bike rental system
 - Day 46: Errors and Exception Handling (try, except, else, finally)
--Day 47 - Smart Password Generator with user options
+- Day 47 - Smart Password Generator with user options
+- Day 48 - Math problem solving practice using Python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
