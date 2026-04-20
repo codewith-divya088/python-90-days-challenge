@@ -40,6 +40,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 46: Errors and Exception Handling (try, except, else, finally)
 - Day 47 - Smart Password Generator with user options
 - Day 48 - Math problem solving practice using Python
+- Day 49 - SQLite database connection and table creation with Python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
