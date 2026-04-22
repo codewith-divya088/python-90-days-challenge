@@ -42,6 +42,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 48 - Math problem solving practice using Python
 - Day 49 - SQLite database connection and table creation with Python
 - Day 50 - SQLite insert and view data with DB Browser understanding
+- Day 51 - SQLite INSERT and LIMIT query practice
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
