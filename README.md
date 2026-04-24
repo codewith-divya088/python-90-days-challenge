@@ -44,6 +44,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 50 - SQLite insert and view data with DB Browser understanding
 - Day 51 - SQLite INSERT and LIMIT query practice
 - Day 52 - SQLite DELETE query with CRUD practice
+- Day 53 - SQLite UPDATE query with complete CRUD operations
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
