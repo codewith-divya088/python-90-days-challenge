@@ -46,6 +46,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 52 - SQLite DELETE query with CRUD practice
 - Day 53 - SQLite UPDATE query with complete CRUD operations
 - Day 54 - SQLite search using SELECT with condition
+- Day 55 - SQLite JOIN query with student and course tables
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
