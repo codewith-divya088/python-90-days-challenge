@@ -48,6 +48,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 54 - SQLite search using SELECT with condition
 - Day 55 - SQLite JOIN query with student and course tables
 - Day 56 - student-course-finderPython + SQLite mini project
+- Day 57 - Practiced basic Python problems (HackerRank)
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
