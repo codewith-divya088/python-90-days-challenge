@@ -51,6 +51,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 57 - Practiced basic Python problems (HackerRank)
 - Day 58 - Learned generators in python
 - Day 59 - Learned function caching in Python
+- Day 60 - Learned requests module in Python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
