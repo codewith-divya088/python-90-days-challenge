@@ -54,7 +54,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 - Day 60 - Learned requests module in Python
 - Day 61 - Built a rule based AI chatbot using Python
 -  Day 62 - Learned magic dunder methods in Python
-  
+-  Day 63 - Learned walrus operator in Python
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
