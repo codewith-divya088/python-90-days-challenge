@@ -1,0 +1,45 @@
+
+#square of a number
+def square(num):
+    return num * num
+
+number = int(input("Enter a number: "))
+print("Square:", square(number))
+
+
+
+#Even or odd checker
+
+def check_even_odd(num):
+    if num % 2 == 0:
+        return "Even"
+    return "Odd"
+
+number = int(input("Enter a number: "))
+print(check_even_odd(number))
+
+
+#largest of number
+def largest(a, b):
+    if a > b:
+        return a
+    return b
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print("Largest:", largest(num1, num2))
+
+
+#factorial 
+def factorial(n):
+    fact = 1
+
+    for i in range(1, n + 1):
+        fact *= i
+
+    return fact
+
+number = int(input("Enter a number: "))
+print("Factorial:", factorial(number))
+
