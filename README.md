@@ -57,7 +57,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 -  Day 63 - Learned walrus operator in Python
 -  Day 64 - command line utility
 -  Day 65 - Python basics revision 
-  
+-  Day 66 - Functions revision 
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
