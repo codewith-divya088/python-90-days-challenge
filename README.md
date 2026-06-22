@@ -59,14 +59,14 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 -  Day 65 - Python basics revision 
 -  Day 66 - Functions revision
 -  Day-67-Lists
-│
-├── favorite_movies.py
-├── sum_of_numbers.py
-├── highest_marks.py
-├── count_items.py
-├── student_marks_manager.py
-├── shopping_list_manager.py
-└── expense_tracker.py
+
+       ├── favorite_movies.py
+        ├── sum_of_numbers.py
+       ├── highest_marks.py
+       ├── count_items.py
+        ├── student_marks_manager.py
+       ├── shopping_list_manager.py
+        └── expense_tracker.py
 
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
