@@ -67,6 +67,14 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
         ├── student_marks_manager.py
        ├── shopping_list_manager.py
         └── expense_tracker.py
+- Day-68-Tuples
+├── favorite_subjects.py
+├── student_details.py
+├── count_items.py
+├── search_item.py
+├── student_information.py
+├── product_catalog.py
+└── monthly_sales_record.py
 
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
