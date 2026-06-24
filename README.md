@@ -75,7 +75,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
             student_information.py
              product_catalog.py
              monthly_sales_record.py
-
+  - Day 69 -library management system
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
 
