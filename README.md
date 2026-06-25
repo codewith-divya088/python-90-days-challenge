@@ -58,25 +58,10 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 -  Day 64 - command line utility
 -  Day 65 - Python basics revision 
 -  Day 66 - Functions revision
--  Day-67-Lists
-
-       ├── favorite_movies.py
-        ├── sum_of_numbers.py
-       ├── highest_marks.py
-       ├── count_items.py
-        ├── student_marks_manager.py
-       ├── shopping_list_manager.py
-        └── expense_tracker.py
-- Day-68-Tuples
-            favorite_subjects.py
-            student_details.py
-            count_items.py
-            search_item.py
-            student_information.py
-             product_catalog.py
-             monthly_sales_record.py
-  
-- Day 69 -library management system
+-  Day 67 - Lists in Python 
+-  Day 68 - Tuples in python 
+-  Day 69 - library management system
+-  Day 70 - Numpy library in python
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
@@ -92,15 +77,15 @@ More updates coming daily!
 - ## 📂 Projects
 - 🎓 Student Grade Calculator (Python)
 - 📊 Student Record Manager (Python)
-  - Menu-driven program to manage student data and results
+- Menu-driven program to manage student data and results
 - Input Validator (Python)
-- - Day 33: Sets in Python  
+- Day 33: Sets in Python  
 - Mini Project: Remove duplicates  
 - Mini Project: Common elements finder
 - Day 34:Functions in Python 
-- Mini Project: Simple Calculator using functions
+- Mini Project: Simple Calculator      using functions
 - Day 35: Modules in Python  
 - Mini Project: Calculator using module
 - Day 36: Math, Random, Datetime modules
-  - Mini Project: Random Password Generator
+- Mini Project: Random Password Generator
 - Day 38:Rock Paper Scissor game
