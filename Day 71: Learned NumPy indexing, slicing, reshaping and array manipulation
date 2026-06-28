@@ -1,0 +1,99 @@
+# Day 71 - NumPy Indexing
+
+import numpy as np
+
+# Creating an array
+numbers = np.array([10, 20, 30, 40, 50])
+
+print("Array:", numbers)
+
+# Accessing elements using indexing
+print("First Element:", numbers[0])
+print("Third Element:", numbers[2])
+print("Last Element:", numbers[-1])
+
+# Day 71 - NumPy Slicing
+
+import numpy as np
+
+# Creating an array
+numbers = np.array([5, 10, 15, 20, 25, 30])
+
+print("Original Array:", numbers)
+
+# Slicing examples
+print("First Three Elements:", numbers[:3])
+print("Last Three Elements:", numbers[3:])
+print("Middle Elements:", numbers[2:5])
+
+# Day 71 - NumPy Reshaping
+
+import numpy as np
+
+# Creating a 1D array
+numbers = np.array([1, 2, 3, 4, 5, 6])
+
+print("Original Array:")
+print(numbers)
+
+# Reshaping into 2 rows and 3 columns
+new_array = numbers.reshape(2, 3)
+
+print("\nReshaped Array:")
+print(new_array)
+
+
+# Day 71 - NumPy Array Manipulation
+
+import numpy as np
+
+# Creating two arrays
+array1 = np.array([1, 2, 3])
+array2 = np.array([4, 5, 6])
+
+# Joining arrays
+joined = np.concatenate((array1, array2))
+
+print("Joined Array:", joined)
+
+# Appending an element
+new_array = np.append(joined, 7)
+
+print("After Appending:", new_array)
+
+# Deleting an element
+updated_array = np.delete(new_array, 2)
+
+print("After Deleting:", updated_array)
+
+
+
+# Day 71 Mini Project - Student Data Analysis
+
+import numpy as np
+
+# Student marks
+marks = np.array([78, 85, 91, 69, 88, 95])
+
+print("Student Marks:", marks)
+
+# Using indexing
+print("First Student Marks:", marks[0])
+
+# Using slicing
+print("Top Three Marks:", marks[:3])
+
+# Reshaping
+reshaped_marks = marks.reshape(2, 3)
+
+print("\nMarks in Matrix Form:")
+print(reshaped_marks)
+
+# Average marks
+print("\nAverage Marks:", np.mean(marks))
+
+# Highest marks
+print("Highest Marks:", np.max(marks))
+
+# Lowest marks
+print("Lowest Marks:", np.min(marks))
