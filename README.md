@@ -63,6 +63,7 @@ I'm a B.Tech CSE student currently learning Python and building consistency thro
 -  Day 69 - library management system
 -  Day 70 - Numpy library in python
 -  Day 71 - Array properties and operations in numpy
+-  Day 71: Learned NumPy indexing, slicing, reshaping and array manipulation
   
 ## 🎯 Goal
 To build strong programming fundamentals and become job-ready.
